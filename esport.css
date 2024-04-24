@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #909ba8;
+    }
+    
+    h2 {
+    font-size: 34px;
+    color: #e5204a;
+    }
+    
+    p {
+    text-align : justify;
+    font-family: Candara;
+    font-size: 20px;
+    }
+    
+    
+    
+    body {
+    color:white;
+    background-image:url(Imagess/Black.png); 
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    
+    
